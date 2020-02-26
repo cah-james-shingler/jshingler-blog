@@ -14,13 +14,11 @@ description: "This tutorial will show you how I created this site. It will use H
 :imagesdir-old: {imagesdir}   
 :imagesdir: ../../../../../img/blog/creating-this-site 
 
-test
-
 While I am not new to blogging, I was re-inspired by https://www.linkedin.com/in/sasiperi/[Sasi Peri], a coworker, and her new https://sasiperi.github.io/[blog].  This gave me the itch to share my experiences and information with hope of helping others..
 
 Now that I was re-inspired to blog, I had a fortunate conversation with https://www.linkedin.com/in/andrew-heintz-93821513a/[Drew Heintz].  Drew is a bright young man finishing up his Computer Science and Security degrees from https://rit.edu[RIT].  Drew, shared with me that he did his resume using https://gohugo.io[Hugo].  Hugo is similar to https://github.com/jekyll[jekyll static site generator] only written in https://golang.org[go] instead of https://ruby-lang.org[ruby].
 
-After a little searching, I ran across https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3[Giraffe Academy Youtub Hugo Tutorial]. In addition, I found that Hugo and https://asciidoctor.org/[AsciiDoctor], one of favorite tools, could be used together, https://rgielen.net/posts/2019/creating-a-blog-with-hugo-and-asciidoctor/["Creating a Blog with Hugo and AsciiDoctor"].
+After a little searching, I ran across https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3[Giraffe Academy Youtube Hugo Tutorial]. In addition, I found that Hugo and https://asciidoctor.org/[AsciiDoctor], one of favorite tools, could be used together, https://rgielen.net/posts/2019/creating-a-blog-with-hugo-and-asciidoctor/["Creating a Blog with Hugo and AsciiDoctor"].
 
 .AsciiDoc in VS Code
 image::VSCodeAsciidoc.png[VS Code Asciidoc]
